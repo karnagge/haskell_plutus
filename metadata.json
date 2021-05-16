@@ -2,5 +2,6 @@
     "name": "PIEBR Pool",
     "description": "Pool com objetivo de usar RaspBerry PI com energia solar no Brasil. Venha ajudar o planeta?",
     "ticker": "PIEBR",
-    "homepage": "https://github.com/karnagge/piebr"
+    "homepage": "https://github.com/karnagge/piebr",
+    "extended": "https://github.com/karnagge/karnagge.github.io/blob/master/extended-metadata.json"
 }
